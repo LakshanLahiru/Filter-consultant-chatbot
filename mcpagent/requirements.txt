@@ -1,0 +1,7 @@
+agno
+anthropic
+dotenv
+groq
+mcp
+openai
+streamlit
